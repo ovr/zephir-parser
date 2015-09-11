@@ -1,7 +1,7 @@
 {
-    "name": "nikic/php-parser",
-    "description": "A PHP parser written in PHP",
-    "keywords": ["php", "parser"],
+    "name": "ovr/zephir-parser",
+    "description": "A Zephir parser written in PHP",
+    "keywords": ["zephir", "parser"],
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
