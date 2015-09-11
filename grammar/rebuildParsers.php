@@ -3,6 +3,7 @@
 $grammarFileToName = [
     __DIR__ . '/php5.y' => 'Php5',
     __DIR__ . '/php7.y' => 'Php7',
+    __DIR__ . '/zephir.y' => 'Zephir',
 ];
 
 $tokensFile     = __DIR__ . '/tokens.y';
